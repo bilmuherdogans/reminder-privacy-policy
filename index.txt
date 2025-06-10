@@ -78,4 +78,4 @@ Users will be notified through the app or app store listing if material changes 
 If you have any questions or concerns about your privacy while using Reminder, please contact:
 
 📧 ibrahimerdogandev@gmail.com
-  bunu güzel bir html haline getirir misin ? 
+
